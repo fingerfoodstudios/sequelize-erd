@@ -11,8 +11,7 @@
   "author": "Zeke Nierenberg <hampzan09@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "commander": "^2.9.0",
-    "pre-commit": "^1.2.2"
+    "commander": "^2.9.0"
   },
   "devDependencies": {
     "sequelize": "^3.29.0",
